@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-12T19:02:40.934256",
+    "total_kinds": 14,
+    "current_inputs_count": 3
+  },
+  "input_kinds": {
+    "versioned": [
+      "image_source",
+      "color_source_v3",
+      "slideshow_v2",
+      "browser_source",
+      "ffmpeg_source",
+      "text_gdiplus_v3",
+      "text_ft2_source_v2",
+      "monitor_capture",
+      "window_capture",
+      "game_capture",
+      "dshow_input",
+      "wasapi_input_capture",
+      "wasapi_output_capture",
+      "wasapi_process_output_capture"
+    ],
+    "unversioned": [
+      "image_source",
+      "color_source",
+      "slideshow",
+      "browser_source",
+      "ffmpeg_source",
+      "text_gdiplus",
+      "text_ft2_source",
+      "monitor_capture",
+      "window_capture",
+      "game_capture",
+      "dshow_input",
+      "wasapi_input_capture",
+      "wasapi_output_capture",
+      "wasapi_process_output_capture"
+    ],
+    "by_category": {
+      "audio": [
+        "wasapi_input_capture",
+        "wasapi_output_capture",
+        "wasapi_process_output_capture"
+      ],
+      "video_media": [
+        "image_source",
+        "color_source_v3",
+        "browser_source",
+        "ffmpeg_source",
+        "text_gdiplus_v3",
+        "text_ft2_source_v2"
+      ],
+      "capture": [
+        "monitor_capture",
+        "window_capture",
+        "game_capture"
+      ],
+      "other": [
+        "slideshow_v2",
+        "dshow_input"
+      ]
+    }
+  },
+  "current_inputs": [
+    "桌面音频",
+    "麦克风/Aux",
+    "媒体源"
+  ],
+  "statistics": {
+    "audio_types_count": 3,
+    "video_types_count": 6,
+    "capture_types_count": 3,
+    "other_types_count": 2
+  }
+}

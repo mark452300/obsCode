@@ -1,0 +1,6 @@
+# Core dependencies
+obs-websocket-py>=1.0
+websocket-client
+
+# Optional dependencies
+PyYAML>=6.0  # For YAML configuration files
